@@ -1,5 +1,6 @@
 # TCP-BBR-Analysis
-For this project I've used the BBR implementation availabe here https://github.com/Vivek-anand-jain/Reproduce-TCP-BBR-in-ns-3
+This repo contains the project report which contains the execution steps involved in achieving the results,for this project I've used the BBR implementation availabe here https://github.com/Vivek-anand-jain/Reproduce-TCP-BBR-in-ns-3
+
 # What actually is TCP BBR Congestion control mechanism
 TCP BBR Congestion control is designed to respond to actual congestion, rather than packet loss. The BBR team designed the algorithm with the desire to have something that responds to actual congestion, rather than packet loss. BBR models the network to send as fast as the available bandwidth and is 2700x faster than previous TCPs on a 10Gb, 100ms link with 1% loss
 
